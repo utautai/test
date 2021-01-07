@@ -7,5 +7,5 @@
 
 ## Character
 
-- Nice
+- Fantastic
 - Cute
