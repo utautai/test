@@ -9,3 +9,4 @@
 
 - Fantastic
 - Cute
+- Whimisical
